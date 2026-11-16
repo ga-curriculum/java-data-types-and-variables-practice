@@ -32,11 +32,11 @@ Estimated time to complete core lab exercise: **tktk min**
 
 tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🟢 [Starter code](https://github.com/ga-curriculum/tktk)
 
 ### Solution code
 
-🏁 [tktk Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [tktk Solution code](https://github.com/ga-curriculum/tktk)
 
 ### Deployed sites
 
@@ -44,7 +44,7 @@ tktk If there is not a deployed site related to this module this section and all
 
 🌐 [Live site](https://generalassemb.ly/tktk)
 
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🐙 [Repository](https://github.com/ga-curriculum/tktk)
 
 ### Resources
 
@@ -56,4 +56,4 @@ tktk If there is not a deployed site related to this module this section and all
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
